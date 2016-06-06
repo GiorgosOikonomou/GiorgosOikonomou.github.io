@@ -13,7 +13,7 @@ layout: page
 <h2>Skills</h2>
 
 <ul class="skill-list">
-	<li>Adnroid</li>
+	<li>Android</li>
 	<li>Java</li>
 	<li>Material design</li>
 	<li>Android Studio, Eclipse</li>
