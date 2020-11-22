@@ -3,11 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://georgeok.github.io/categories/</loc>
+    <loc>https://georgeok.github.io/</loc>
+    <lastmod>2020-11-22T12:06:31+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://georgeok.github.io/</loc>
+    <loc>https://georgeok.github.io/posts/</loc>
+    <lastmod>2020-11-22T12:06:31+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://georgeok.github.io/posts/privacy-policy/</loc>
+    <lastmod>2020-11-22T12:06:31+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://georgeok.github.io/posts/terms-and-conditions/</loc>
+    <lastmod>2020-11-22T12:06:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://georgeok.github.io/categories/</loc>
   </url>
   
   <url>
